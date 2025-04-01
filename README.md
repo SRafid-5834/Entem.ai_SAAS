@@ -13,8 +13,8 @@ Follow these steps to install and set up the project:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/SRafid-5834/Entem.ai_SAAS.git
-cd Entem.ai_SAAS
+git clone https://github.com/SRafid-5834/Entem.ai_SaaS.git
+cd Entem.ai_SaaS
 ```
 
 2. Install dependencies
