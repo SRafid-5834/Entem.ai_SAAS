@@ -2,6 +2,8 @@
 
 > Entem.ai is a full-stack SAAS web application using its pre-trained AI model boasting multiple modalities, to accept a video as input and detect the sentiments and emotions in it. Entem will parse the video file and go through all video and audio frames, effectively extracting every single utterance. It will then run inference on the data and produce the sentiment and emotions for the user's video.
 
+![entem main](https://github.com/user-attachments/assets/3b3a0ee2-55f6-497d-bf36-0a79d7bdc7a0)
+
 ## Setup
 
 Follow these steps to install and set up the project:
